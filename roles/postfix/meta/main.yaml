@@ -37,6 +37,3 @@ galaxy_info:
   # dependencies available via galaxy should be listed here.
   # Be sure to remove the '[]' above if you add dependencies
   # to this list.
-
-dependencies:
-  - this: 'that'
