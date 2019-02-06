@@ -189,3 +189,9 @@ Temporary Items
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/postfix_example.iml
+.idea/vcs.xml
+/.idea/
